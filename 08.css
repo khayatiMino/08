@@ -12,12 +12,12 @@ body {
     margin: 0;
     background: linear-gradient(
         to bottom,
+        #073A4B,
         #108AB1,
-        #FFD167,
         #06D7A0,
+        #FFD167,
         #F78C6A,
-        #F04770,
-        #073A4B
+        #F04770
     );
     padding-bottom: 100px;
     background-attachment: fixed;
